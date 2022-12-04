@@ -9,11 +9,16 @@
 - 🌱 I’m currently learning **Nest, GraphQL, AWS**
 
 <h3 align="left">✅ Skills:</h3>
-- Frontend: React, Next, Tailwind, Materialui <br />
-- Backend: Nodejs, SpringBoot <br />
-- Language: Javascript, Typescript, HTML, CSS, Java <br />
-- Unit testing, Git, Docker <br />
-- Data: SQL & NoSQL
+- Front End:
+ React 17, React Hooks, react-router-dom, redux, react-redux, Semantic HTML, Javascript, CSS, Sass, TypeScript, Axios, jest, Next.js, ESLint, Responsive Design, Figma
+- Back End:
+ Java, Spring Boot, Gradle, Junit 5, RESTful, Postman, Spring Security, Spring Data JPA, JWT, Docker, PostgreSQL, MySQL, Flyway for database migration
+- Deployment:
+ AWS S3 for frontend deployment, AWS Code pipeline for CI/CD
+- Methodologies:
+ Agile, GitHub Flow
+- Project Management Tools:
+ Jira, Trello, Github Projec
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cameron933&count_private=true&show_icons=true&bg_color=140deg,ff6a00,904e95&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="cameron933" /></p>
 
