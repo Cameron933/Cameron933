@@ -6,22 +6,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cameron933" alt="cameron933" /></a> </p>
 
 - 📫 How to reach me **huangchu103@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cameron huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron huang" height="30" width="40" /></a>
-</p>
+- Or <a href="https://linkedin.com/in/chu-huang" target="blank">Linkedin</a>
 
 - 🌱 I’m currently learning **Nest, GraphQL, AWS**
 
 <h3 align="left">✅ Skills:</h3>
-- Frontend: React, Next, Tailwind, Materialui
-- Backend: Nodejs, SpringBoot
-- Language: Javascript, Typescript, HTML, CSS, Java
-- Unit testing, Git, Docker
+- Frontend: React, Next, Tailwind, Materialui <br />
+- Backend: Nodejs, SpringBoot <br />
+- Language: Javascript, Typescript, HTML, CSS, Java <br />
+- Unit testing, Git, Docker <br />
 - Data: SQL & NoSQL
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cameron933&show_icons=true&locale=en" alt="cameron933" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cameron933&count_private=true&show_icons=true&bg_color=140deg,ff6a00,904e95&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="cameron933" /></p>
 
