@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameron933&label=Profile%20views&color=orange&style=flat-square" alt="cameron933" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cameron933" alt="cameron933" /></a> </p>
-
 - 📫 How to reach me **huangchu103@gmail.com**
 - Or <a href="https://linkedin.com/in/chu-huang" target="blank">Linkedin</a>
 
