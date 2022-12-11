@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nest, GraphQL, AWS**
 
-###✅Skills:
+## ✅Skills:
 - Front End:<br />
  React 17, React Hooks, react-router-dom, redux, react-redux, Semantic HTML, Javascript, CSS, Sass, TypeScript, Axios, jest, Next.js, ESLint, Responsive Design, Figma<br />
 - Back End:<br />
