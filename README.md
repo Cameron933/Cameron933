@@ -26,6 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameron933&layout=compact&bg_color=140deg,904e95,ff6a00&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="cameron933" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=cameron933&count_private=true&show_icons=true&text_color=555&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=cameron933&count_private=true&show_icons=true&text_color=555&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=cameron933&show_icons=true&text_color=555&theme=radical&count_private=true)
