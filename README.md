@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cameron. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi 👋, I'm Cameron. <img src="https://media.giphy.com/media/hello-hi-kawaii-cat-fSptAINJfyGe3oPHNZ/giphy.gif" width="50"></h1>
 <h3 align="center">A progressive full stack developer who focuses on the frontend and performance</h3>
 <img src="https://giphy.com/embed/mGcNjsfWAjY5AEZNw6" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/cat-swipe-up-look-mGcNjsfWAjY5AEZNw6">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameron933&label=Profile%20views&color=orange&style=flat-square" alt="cameron933" /> </p>
