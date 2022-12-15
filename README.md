@@ -9,16 +9,16 @@
 - 🌱 I’m currently learning **Nest, GraphQL, AWS**
 
 ## ✅Skills:
-- Front End:<br />
+- Front End: <br />
  React 17, React Hooks, react-router-dom, redux, react-redux, Semantic HTML, Javascript, CSS, Sass, TypeScript, Axios, jest, Next.js, ESLint, Responsive Design, Figma<br />
-- Back End:<br />
+- Back End: <br />
  Java, Spring Boot, Gradle, Junit 5, RESTful, Postman, Spring Security, Spring Data JPA, JWT, Docker, PostgreSQL, MySQL, Flyway for database migration<br />
-- Deployment:<br />
- AWS S3 for frontend deployment, AWS Code pipeline for CI/CD<br />
-- Methodologies:<br />
- Agile, GitHub Flow<br />
-- Project Management Tools:<br />
- Jira, Trello, Github Projec<br />
+- Deployment: <br />
+ AWS S3 for frontend deployment, AWS Code pipeline for CI/CD <br />
+- Methodologies: <br />
+ Agile, GitHub Flow <br />
+- Project Management Tools: <br />
+ Jira, Trello, Github Projec <br />
 
 ## Github stats
 
