@@ -6,7 +6,7 @@
 - 📫 How to reach me **huangchu103@gmail.com**
 - Or <a href="https://linkedin.com/in/chu-huang" target="blank">Linkedin</a>
 
-- 🌱 I’m currently learning **GraphQL, AWS, Storybook **
+- 🌱 I’m currently learning **Typescript, AWS, Storybook **
 
 ## ✅Skills:
 - Front End: <br />
