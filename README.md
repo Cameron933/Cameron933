@@ -6,7 +6,7 @@
 - 📫 How to reach me **huangchu103@gmail.com**
 - Or <a href="https://linkedin.com/in/chu-huang" target="blank">Linkedin</a>
 
-- 🌱 I’m currently learning **React Hooks, Typescript, AWS, Storybook, WebRTC **
+- 🌱 I’m currently learning **React, Typescript, AWS, Storybook, WebRTC **
 
 ## ✅Skills:
 - Front End: <br />
