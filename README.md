@@ -18,7 +18,7 @@
 - Methodologies: <br />
  Agile, GitHub Flow <br />
 - Project Management Tools: <br />
- Jira, Trello, Github Projec <br />
+ Jira, Trello, Zenhub <br />
 
 ## Github stats
 
