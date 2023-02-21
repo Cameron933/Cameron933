@@ -14,7 +14,7 @@
 - Back End: <br />
  Java, Spring Boot, Gradle, Junit 5, RESTful, Postman, Spring Security, Spring Data JPA, JWT, Docker, PostgreSQL, MySQL, Flyway for database migration<br />
 - Deployment: <br />
- AWS S3 for frontend deployment, AWS Code pipeline for CI/CD <br />
+ AWS pipeline for CI/CD, Vercel CI/CD <br />
 - Methodologies: <br />
  Agile, GitHub Flow <br />
 - Project Management Tools: <br />
