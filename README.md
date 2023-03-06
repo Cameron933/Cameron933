@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameron933&label=Profile%20views&color=orange&style=flat-square" alt="cameron933" /> </p>
 
 - 🔭 I’m currently working on **Rhythmical App**
-<div class="tenor-gif-embed" data-postid="25247205" data-share-method="host" data-aspect-ratio="3.335" data-width="100%"><a href="https://tenor.com/view/header-gif-25247205">Header GIF</a>from <a href="https://tenor.com/search/header-gifs">Header GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 🌱 I’m currently learning **Typescript, AWS, WebRTC**
 
 - 💬 Ask me about **React**
