@@ -1,10 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center"><img src="https://media.giphy.com/media/fSptAINJfyGe3oPHNZ/giphy.gif" width="50">Hi, I'm Cameron. </h1>
 <h3 align="center">A passionate frontend develope</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameron933&label=Profile%20views&color=orange&style=flat-square" alt="cameron933" /> </p>
 
 - 🔭 I’m currently working on **Rhythmical App**
-
+<div class="tenor-gif-embed" data-postid="25247205" data-share-method="host" data-aspect-ratio="3.335" data-width="100%"><a href="https://tenor.com/view/header-gif-25247205">Header GIF</a>from <a href="https://tenor.com/search/header-gifs">Header GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 🌱 I’m currently learning **Typescript, AWS, WebRTC**
 
 - 💬 Ask me about **React**
