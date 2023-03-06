@@ -10,6 +10,8 @@
 
 ## ✅Skills:
 - Front End: <br />
+<i class="devicon-typescript-plain colored"></i>
+
  ReactJS, Next.js, React hooks, react-router-dom, Redux, JavaScript ES6/ES7, TypeScript, Turborepo, Storybook, Material UI, Tailwind, Eslint, Prettier, husky, Axios, Fetch, React Hook Form, Chakra UI, Ant Design, Semantic UI, Bootstrap 3, Responsive Design, FontAwsome icons, heroicons, Styled components, HTML 5, CSS 3, Sass, npm, yarn<br />
 - Back End: <br />
  Java, Spring Boot, Gradle, Junit 5, RESTful, Postman, Spring Security, Spring Data JPA, JWT, Docker, PostgreSQL, MySQL, Flyway for database migration<br />
@@ -22,6 +24,8 @@
 
 ## Github stats
 
+<div>
+</div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cameron933&count_private=true&show_icons=true&bg_color=140deg,ff6a00,904e95&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="cameron933" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameron933&count_private=true&layout=compact&bg_color=140deg,904e95,ff6a00&title_color=ffffff&icon_color=ffffaf&text_color=ffffff" alt="cameron933" /></p>
