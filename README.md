@@ -10,8 +10,10 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **huangchu103@gmail.com**
-- 
-- Or <a href="https://linkedin.com/in/chu-huang" target="blank">Linkedin</a>
+
+- 📫Or <a href="https://linkedin.com/in/chu-huang" target="blank">Linkedin</a>
+
+- ⚡ Fun fact **IBM stands for I've been married**
 
 ## ✅Skills:
 - Front End: <br />
