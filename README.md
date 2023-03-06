@@ -10,7 +10,6 @@
 
 ## ✅Skills:
 - Front End: <br />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  ReactJS, Next.js, React hooks, react-router-dom, Redux, JavaScript ES6/ES7, TypeScript, Turborepo, Storybook, Material UI, Tailwind, Eslint, Prettier, husky, Axios, Fetch, React Hook Form, Chakra UI, Ant Design, Semantic UI, Bootstrap 3, Responsive Design, FontAwsome icons, heroicons, Styled components, HTML 5, CSS 3, Sass, npm, yarn<br />
 - Back End: <br />
  Java, Spring Boot, Gradle, Junit 5, RESTful, Postman, Spring Security, Spring Data JPA, JWT, Docker, PostgreSQL, MySQL, Flyway for database migration<br />
