@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Rhythmical App**
 
-- 🌱 I’m currently learning **Typescript, AWS, Debounce, WebRTC**
+- 🌱 I’m currently learning **Typescript, AWS, Debounce, WebRTC， GraphQL**
 
 - 💬 Ask me about **React**
 
