@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **huangchu103@gmail.com**
 
-- ⚡ Fun fact **IBM stands for I've been married**
+- ⚡ Fun fact **IBM stands for I've been married **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
