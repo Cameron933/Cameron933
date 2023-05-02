@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **huangchu103@gmail.com**
+- 📫 How to reach me ** huangchu103@gmail.com **
 
 - ⚡ Fun fact ** IBM stands for I've been married **
 
