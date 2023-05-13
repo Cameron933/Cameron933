@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** Typescript, AWS, Debounce, WebRTC，GraphQL **
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React **
 
 - 📫 How to reach me ** huangchu103@gmail.com **
 
