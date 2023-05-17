@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)]()
 <h1 align="center"><img src="https://media.giphy.com/media/fSptAINJfyGe3oPHNZ/giphy.gif" width="50">Hi, I'm Cameron. </h1>
 <h3 align="center">A passionate frontend develope</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
