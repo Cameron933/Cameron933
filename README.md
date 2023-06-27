@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** A-comosus & Rhythmical App **
 
-- 🌱 I’m currently learning ** Typescript, AWS, GraphQL, Express, Node.js **
+- 🌱 I’m currently learning ** Typescript, AWS, GraphQL, Express **
 
 - 💬 Ask me about ** JavaScript, React **
 
