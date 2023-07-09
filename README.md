@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on ** A-comosus & Rhythmical App **
 
-- 🌱 I’m currently learning ** Typescript, AWS, GraphQL(client side), Express **
+- 🌱 I’m currently learning ** Typescript, AWS, Express **
 
-- 💬 Ask me about ** JavaScript, React, Typescript **
+- 💬 Ask me about ** JavaScript, React **
 
 - 📫 How to reach me ** huangchu103@gmail.com **
 
