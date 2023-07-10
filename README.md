@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/fSptAINJfyGe3oPHNZ/giphy.gif" width="50">Hi, I'm Cameron. </h1>
-<h3 align="center">A passionate frontend develope</h3>
+<h3 align="center">A passionate full-stack develope</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameron933&label=Profile%20views&color=orange&style=flat-square" alt="cameron933" /> </p>
 
