@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** Typescript, AWS, Express **
 
-- 💬 Ask me about ** JavaScript, React **
+- 💬 Ask me about ** JavaScript, React, Angular **
 
 - 📫 How to reach me ** huangchu103@gmail.com **
 
