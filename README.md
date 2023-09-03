@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** GraphQL, AWS, Express **
 
-- 💬 Ask me about ** JavaScript, React, Python **
+- 💬 Ask me about ** JavaScript, React **
 
 - 📫 How to reach me ** huangchu103@gmail.com **
 
