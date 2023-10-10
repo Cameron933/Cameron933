@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** A-comosus UI **
 
-- 🌱 I’m currently learning ** GraphQL, AWS, supabase **
+- 🌱 I’m currently learning ** GraphQL, AWS, supabase, Notion **
 
 - 💬 Ask me about ** JavaScript, React **
 
