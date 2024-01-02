@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** A-comosus UI **
 
-- 🌱 I’m currently learning ** GraphQL, AWS **
+- 🌱 I’m currently learning ** Nest.js, GraphQL, AWS **
 
 - 💬 Ask me about ** JavaScript, React **
 
