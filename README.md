@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameron933&label=Profile%20views&color=orange&style=flat-square" alt="cameron933" /> </p>
 
-- 🔭 I’m currently working on ** A-comosus UI **
+- 🔭 I’m currently working on **  **
 
-- 🌱 I’m currently learning ** Nest.js, GraphQL, AWS **
+- 🌱 I’m currently learning ** Flutter, Nest.js, AWS **
 
 - 💬 Ask me about ** JavaScript, React **
 
