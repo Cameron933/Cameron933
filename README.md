@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** AI-powered Journal app **
 
-- 🌱 I’m currently learning ** GraphQL, AWS **
+- 🌱 I’m currently learning ** React Native, Swift **
 
 - 💬 Ask me about ** JavaScript, React **
 
